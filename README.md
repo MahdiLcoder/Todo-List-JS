@@ -1,2 +1,1 @@
-Link for todo list project : 
-https://mahdilcoder.github.io/Todo-List-JS/
+<a href="https://mahdilcoder.github.io/Todo-List-JS/">APP LINK</a>
